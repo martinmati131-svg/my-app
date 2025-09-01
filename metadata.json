@@ -1,0 +1,5 @@
+{
+  "name": "RAID Level Visualizer",
+  "description": "An interactive tool to visualize and understand different RAID (Redundant Array of Independent Disks) storage configurations. Select a RAID level, adjust the number and capacity of disks, and see how data is distributed. Get clear explanations powered by Gemini.",
+  "requestFramePermissions": []
+}
